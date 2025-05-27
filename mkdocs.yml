@@ -1,7 +1,7 @@
 site_name: Sample Docs
 site_description: An example of MkDocs documentation
 site_author: Yasmine El-Shahat
-site_url: https://example.com
+site_url: https://YasmineEl-shahat.github.io/sample-docs
 
 nav:
   - Home: index.md
