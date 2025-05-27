@@ -1,0 +1,22 @@
+site_name: Sample Docs
+site_description: An example of MkDocs documentation
+site_author: Yasmine El-Shahat
+site_url: https://example.com
+
+nav:
+  - Home: index.md
+  - About: about.md
+
+theme:
+  name: material
+  features:
+    - navigation.tabs
+    - navigation.top
+    - navigation.expand
+    - navigation.sections
+  language: en
+  logo: images/logo.png
+  favicon: images/favicon.ico
+
+# Directory URLs
+use_directory_urls: true
